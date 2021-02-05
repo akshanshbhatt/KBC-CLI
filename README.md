@@ -3,32 +3,22 @@ A basic C-lang CLI game which I made during my freshman year at college.
 
 **********README**********
 
-############################################################
+
 
 README for assignment submitted by 2019B5PS0754P
 Practical section number: P09
 Assignment question attempted: 1 (KBC GAME)
 
-############################################################
-
-TEAM:
+###TEAM:
 1. 2019B5PS0754P  Akshansh Bhatt
 2. 2019B3PS0160P  Saksham Jain
 3. 2019A2PS0687P  Hitanshu Choudhary
 
-############################################################
-
-ACKNOWLEDGEMENT:-
+####ACKNOWLEDGEMENT:-
 This complete assignment is made possible by the efforts and contribution of everyone in the team. It is ensured that this project is our own work and that no part of this program is plagiarised in any way. Although our project is not licensed, it is recommended that it should not be used without citing all the authors of the same.
 This code is well documented and every part is explained properly using comments.
 
-############################################################
-
-SALIENT FEATURES AND WORK DONE ON EACH POINT:-
-
-WE HAVE TRIED TO IMPROVISE ON EVERY POSSIBLE PART OF THE PROGRAM, WHICH DIFFERENTIATES OURS FROM ANY OTHER TEAM.
-
-***POINTS THAT SET OUR PROGRAM APART:-
+###POINTS THAT SET OUR PROGRAM APART:-
 
 1. Random questions are picked one by one every time from a set of 33 questions.
 2. Another question is randomly selected during FLIP THE QUESTION lifeline.
@@ -38,7 +28,7 @@ WE HAVE TRIED TO IMPROVISE ON EVERY POSSIBLE PART OF THE PROGRAM, WHICH DIFFEREN
 6. No question will be repeated in the same program.
 7. We have made our program as modular as possible, with a total 13 functions in the source file.
 
-***QUESTION ATTEMPTED WITH WORK ON EVERY POINT:-
+###QUESTION ATTEMPTED WITH WORK ON EVERY POINT:-
 
 We have attempted the First Question of the Assignment which stated to build a KBC game. In order to show that we have worked on every point that was stated in the question, here are the points with the work which we did on each of them.   
 
@@ -69,9 +59,8 @@ The Questions are also shuffled every time the user starts the game. We have a c
 
 *Our Work  -> Our game contains 15 questions only!
 
-############################################################
 
-DESCRIPTION OF HOW TO RUN THE CODE AND OBSERVE THE OUTPUT:-
+###DESCRIPTION OF HOW TO RUN THE CODE AND OBSERVE THE OUTPUT:
 
 1. The exe is called 2019B5PS0754P_P09.exe. It is an emulated version of the popular quiz show, Kaun Banega Crorepati (popularly known as KBC). This program is basically a game with basically all the features of the actual quiz show.
 
@@ -95,7 +84,7 @@ DESCRIPTION OF HOW TO RUN THE CODE AND OBSERVE THE OUTPUT:-
 
 11. Finally, if the user answers all the 15 questions correctly, YOU WON message is prompted on the screen before exiting.
 
-***NOTE:-
+###NOTE:
 We have prepared this code to be comfortable while running in the terminal, use of any IDE may affect the final look on the screen. If the characters are not aligned properly, adjust the font-size of the terminal and RESTART. To change the font size-
 
 >>If you are using the CLion Terminal -
