@@ -68,6 +68,12 @@ This code is well documented and every part is explained properly using comments
 
 >* If you are using Windows Command Prompt/PowerShell-
 	Open the terminal → Right Click on the Title Bar of the terminal window → Properties → Font section → Font size
+
+### Screenshots of Working Code
+![Screenshot](Screenshots/2021-02-05 (2).png)
+![Screenshot](Screenshots/2021-02-05 (3).png)
+![Screenshot](Screenshots/2021-02-05 (4).png)
+![Screenshot](Screenshots/2021-02-05 (5).png)
 	
 ### TODOs
 * Reading the questions from a text file in which there can any number of Questions/Answers.
