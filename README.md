@@ -1,5 +1,5 @@
 # KBC Game in C
-A basic C-lang CLI game which I made during my freshman year at college as the submission for our assignment. This documentation of the code was my very first attempt so there might me naïve mistakes in it. This program can be executed in the command line without any need of additional libraries/files. Feel free to fork it and give it your own touch.
+A basic C-lang CLI quiz game (Indian version of 'Who wants to be a millionaire?' known as KBC) which I made during my freshman year at college as the submission for our assignment. This documentation of the code was my very first attempt so there might me naïve mistakes in it. This program can be executed in the command line without any need of additional libraries/files. Feel free to fork it and give it your own touch.
 
 ## **README**
 
@@ -68,3 +68,7 @@ This code is well documented and every part is explained properly using comments
 
 >* If you are using Windows Command Prompt/PowerShell-
 	Open the terminal → Right Click on the Title Bar of the terminal window → Properties → Font section → Font size
+	
+### TODOs
+* Reading the questions from a text file in which there can any number of Questions/Answers.
+* Randomly shuffling the option Sequence.
