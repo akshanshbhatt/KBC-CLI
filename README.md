@@ -12,8 +12,8 @@ Assignment question attempted: 1 (KBC GAME)
 2. 2019B3PS0160P  Saksham Jain
 3. 2019A2PS0687P  Hitanshu Choudhary
 
->#### ACKNOWLEDGEMENT:
->This complete assignment is made possible by the efforts and contribution of everyone in the team. It is ensured that this project is our own work and that no part of this program is plagiarized in any way. Although our project is not licensed, it is recommended that it should not be used without citing all the authors of the same.
+#### ACKNOWLEDGEMENT:
+This complete assignment is made possible by the efforts and contribution of everyone in the team. It is ensured that this project is our own work and that no part of this program is plagiarized in any way. Although our project is not licensed, it is recommended that it should not be used without citing all the authors of the same.
 This code is well documented and every part is explained properly using comments.
 
 ### POINTS THAT SET OUR PROGRAM APART
@@ -50,23 +50,23 @@ This code is well documented and every part is explained properly using comments
 
 11. Finally, if the user answers all the 15 questions correctly, YOU WON message is prompted on the screen before exiting.
 
->### NOTE:
->We have prepared this code to be comfortable while running in the terminal, use of any IDE may affect the final look on the screen. If the characters are not aligned properly, adjust the font-size of the terminal and RESTART. To change the font size-
+### NOTE:
+We have prepared this code to be comfortable while running in the terminal, use of any IDE may affect the final look on the screen. If the characters are not aligned properly, adjust the font-size of the terminal and RESTART. To change the font size-
 
->* If you are using the CLion Terminal -
+* If you are using the CLion Terminal -
  File → Settings → Editor → Colors & Fonts → Console Font.
  	Apply the size you want, quit the Terminal and re-open it.
 
->* If you are using the Linux Terminal (any Distro even Ubuntu)-
+* If you are using the Linux Terminal (any Distro even Ubuntu)-
 	Open Terminal → Right Click → Profiles → Profile Preferences → General Tab → Font.
 
->* If you are using Ubuntu Terminal (shortcut)-
+* If you are using Ubuntu Terminal (shortcut)-
 	Open Terminal → Click on the Button having three parallel lines near the find Button on the top ribbon of the terminal → Magnifying option
 
->* If you are using CodeBlocks IDE-
+* If you are using CodeBlocks IDE-
 	Settings → Environment → View → Message logs' font size"
 
->* If you are using Windows Command Prompt/PowerShell-
+* If you are using Windows Command Prompt/PowerShell-
 	Open the terminal → Right Click on the Title Bar of the terminal window → Properties → Font section → Font size
 
 ### Screenshots of Working Code
